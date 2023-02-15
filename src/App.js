@@ -7,7 +7,7 @@ function App() {
       <h2>New title </h2>
       <footer>
         This project is created by{" "}
-        <a href="" target="_blank" rel="noopener noreferrer">
+        <a href="#" target="_blank" rel="noopener noreferrer">
           Alina Yuryeva{" "}
         </a>{" "}
         and{" "}
