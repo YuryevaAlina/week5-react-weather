@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>Wather App</h1>
+      <h2>New title </h2>
       <footer>
         This project is created by{" "}
         <a href="" target="_blank">
