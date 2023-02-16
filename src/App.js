@@ -5,9 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Wather App</h1>
         <Weather />
-        <button className="btn btn-primary">Hello</button>
 
         <footer>
           This project is created by{" "}
