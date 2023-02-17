@@ -45,5 +45,8 @@
 
 .Weather canvas {
   margin-right: 10px;
-  display: inline-block;
+}
+
+.Weather a {
+  text-decoration: none;
 }
