@@ -43,6 +43,7 @@
   color: black;
 }
 
-.Weather img {
+.Weather canvas {
   margin-right: 10px;
+  display: inline-block;
 }
