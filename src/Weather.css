@@ -1,4 +1,9 @@
 .Weather {
+  background: radial-gradient(
+    621px at 25.3% 13.8%,
+    rgb(255, 255, 255) 0%,
+    rgb(234, 236, 255) 90%
+  );
   border: 1px solid #dadde1;
   font-family: Arial, sans-serif;
   padding: 16px;
@@ -38,13 +43,16 @@
 }
 
 .Weather .unit {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   color: black;
+  vertical-align: top;
 }
 
 .Weather canvas {
   margin-right: 10px;
+  width: 54px;
+  height: 54px;
 }
 
 .Weather a {

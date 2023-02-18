@@ -10,7 +10,7 @@ function App() {
         <footer>
           This project is created by{" "}
           <a
-            href="https://www.markus-steinacher.at/sichere-externe-links-durch-target_blank-relnoopener-noreferrer/"
+            href="https://main--grand-pithivier-c391ed.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
